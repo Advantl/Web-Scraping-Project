@@ -26,8 +26,8 @@
 * rating_count - количество оценок (количество человек, поставивших оценку сериалу)
 
 ## Структура проекта
-[Ноутбук с кодом](https://github.com/Advantl/Web-Scraping-Project/blob/main/DoramyClub_parsing.ipynb)
-[Итоговый датафрейм, сохраненный в csv файл](https://github.com/Advantl/Web-Scraping-Project/blob/main/DB_DoramyClub.csv)
+[Ноутбук с кодом](https://github.com/Advantl/Web-Scraping-Project/blob/main/DoramyClub_parsing.ipynb)  
+[Итоговый датафрейм, сохраненный в csv файл](https://github.com/Advantl/Web-Scraping-Project/blob/main/DB_DoramyClub.csv)  
 
 ## Tech stack 
 Python (Requests, BeautifulSoup, Pandas)
