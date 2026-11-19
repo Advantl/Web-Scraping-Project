@@ -25,6 +25,12 @@
 * rating - рейтинг сериала
 * rating_count - количество оценок (количество человек, поставивших оценку сериалу)
 
+## Данные
+* 3 336 сериалов, 
+* 17 столбцов, 
+* 335 страниц каталога
+* дата сбора 29.05.2022
+
 ## Структура проекта
 [Ноутбук с кодом](https://github.com/Advantl/Web-Scraping-Project/blob/main/DoramyClub_parsing.ipynb)  
 [Итоговый датафрейм, сохраненный в csv файл](https://github.com/Advantl/Web-Scraping-Project/blob/main/DB_DoramyClub.csv)  
